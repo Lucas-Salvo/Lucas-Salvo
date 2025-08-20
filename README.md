@@ -15,7 +15,7 @@ About Me
 
 Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/lucas-corrêia-salvo-a9a490333)
+- (www.linkedin.com/in/lucas-corrêia-salvo-a9a490333)
 
 
 Fun Facts
