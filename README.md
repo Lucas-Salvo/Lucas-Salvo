@@ -21,7 +21,7 @@ Sobre mim
 -  Explorando o mundo do <b>JavaScript</b> e práticas modernas de desenvolvimento
 -  Mantenho um <a href="https://github.com/Lucas-Salvo/Glossario-Tecnico" target="_blank"><b>Glossário Técnico</b></a> com conceitos e anotações para ajudar outros iniciantes
 -  Adoro jogos, esportes e sou fã de ficção científica
-- 🛤 Meu objetivo é me tornar um desenvolvedor especialista e construir uma carreira de sucesso em tecnologia
+-  Meu objetivo é me tornar um desenvolvedor especialista e construir uma carreira de sucesso em tecnologia
 
 ---
 
